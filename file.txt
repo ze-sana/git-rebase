@@ -1,2 +1,11 @@
 “Les apprenants doivent apprendre à tricoter ( ou pas ...)”
+<<<<<<< HEAD
 "Bonjour je suis la dev 5"
+=======
+<<<<<<< HEAD
+
+"Chut Sana"
+=======
+"Je suis la dev 5"
+>>>>>>> refs/remotes/origin/main
+>>>>>>> 9c46201765985c463c182cd32b7a260c33c95e76
